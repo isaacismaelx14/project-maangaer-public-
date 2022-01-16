@@ -1,2 +1,2 @@
-# project-maangaer-public-
+# MedraMart Project Manager (Public Repository)
 the public repository
