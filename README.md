@@ -1,16 +1,12 @@
 # MedraMart Project Manager (Public Repository)
 the public repository
 
+
 ## News 📰: 
- - Project controller, more facility to create file.
- - Adding option to delete projects and clients.
- - Adding option edit projects :)
- - Edit project.
- - Error controller.
- - Check the state by individuals.
- - Now added a state in all Links to know where you come at the moment to comeback.
  - Fixs 🔨: 
-    - Add some servers to connect to the expedient checker in case someone go fail.
+    - Add version checkr to `ayuda > Acerca de`
+    - Add navigate to previus route before edit/save an user.
+    - Check to delete user now convert into LowerCase to verify the input.
 
 
-`V0.0.4 (Beta)`
+`V0.0.5 (Beta)`
