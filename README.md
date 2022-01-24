@@ -4,7 +4,7 @@ the public repository
 ## News 📰: 
  - Project controller, more facility to create file.
  - Adding option to delete projects and clients.
- - Adding optuin to edit projects :)
+ - Adding option edit projects :)
  - Edit project.
  - Error controller.
  - Check the state by individuals.
