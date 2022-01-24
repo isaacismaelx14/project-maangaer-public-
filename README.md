@@ -11,3 +11,6 @@ the public repository
  - Now added a state in all Links to know where you come at the moment to comeback.
  - Fixs 🔨: 
     - Add some servers to connect to the expedient checker in case someone go fail.
+
+
+`V0.0.4 (Beta)`
