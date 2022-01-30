@@ -6,8 +6,8 @@ the public repository
 - `New Interface`: 
    - Custom Tile Bar
    - Hiddeable menu
-   - New Interface
-   - Project Files controller
-   - Project file encrypted.
+   - New fresh desing
+- Project Files controller
+- Project file encrypted.
 
 `V1.0.0`
