@@ -3,10 +3,11 @@ the public repository
 
 
 ## News 📰: 
- - Fixs 🔨: 
-    - Add version checkr to `ayuda > Acerca de`
-    - Add navigate to previus route before edit/save an user.
-    - Check to delete user now convert into LowerCase to verify the input.
+- `New Interface`: 
+   - Custom Tile Bar
+   - Hiddeable menu
+   - New Interface
+   - Project Files controller
+   - Project file encrypted.
 
-
-`V0.0.5 (Beta)`
+`V1.0.0`
