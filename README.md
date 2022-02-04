@@ -9,5 +9,6 @@ the public repository
    - New fresh desing
 - Project Files controller
 - Project file encrypted.
-
-`V1.0.0`
+##Fix:
+- Fix a bug in the project manager file reader
+`V1.0.1`
